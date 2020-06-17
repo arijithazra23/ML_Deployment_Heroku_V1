@@ -1,1 +1,0 @@
-web:gunicorn app:'D:\ML\Deployment of ML and NLP\Krish Naik codes\Heroku-Demo-master\app'
